@@ -1,5 +1,5 @@
-Another change mad on VS code
-Change
+Another change made on VS code
+Change, another one
 
 I just added this message to the README.md. Now I am going to save the file using VS Code, but the work is not done with git!
 
