@@ -9,5 +9,3 @@ Make changes with the Web IDE!
 Another remote commit was made that i want to fetch to my local repository and pull if there are no conflicts.
 
 okay let's try
-
-Now I've edited this file on the `first-branch`-branch.
